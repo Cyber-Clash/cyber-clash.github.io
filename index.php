@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>CyberClash</title>
+    <title>cyber-clash.github.io</title>
   </head>
   <body>
     TEST
