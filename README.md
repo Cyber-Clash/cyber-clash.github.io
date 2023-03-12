@@ -1,3 +1,0 @@
-<!-- 
-#cyber-clash.github.io
- -->
